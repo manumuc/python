@@ -1,3 +1,4 @@
+# http://icap-server.sourceforge.net/#_TOC22
 def icap_request(ip):
    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
    s.connect((ip, 1344))
