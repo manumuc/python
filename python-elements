@@ -1,0 +1,73 @@
+# Declare comments using an octothorpe (#). However, Python does not support multiline comments. 
+#This is a comment
+
+# Also, docstrings are documentation strings that help explain the code.
+"""
+This is a docstring
+"""
+
+# Python constructs
+# i. Functions
+# A function in Python is a collection of statements grouped under a name. 
+# You can use it whenever you want to execute all those statements at a time. 
+# You can call it wherever you want and as many times as you want in a program. A function may return a value.
+
+#ii. Classes
+# Python is an object-oriented language. 
+# It supports classes and objects. 
+# A class is an abstract data type. In other words, it is a blueprint for an object of a certain kind. It holds no values. 
+# An object is a real-world entity and an instance of a class.
+
+# iii. Modules
+# A Python module is a collection of related classes and functions. 
+# We have modules for mathematical calculations, string manipulations, web programming, and many more. 
+
+# iv. Packages
+# Python package is a collection of related modules. You can either import a package or create your own.
+
+# Python Frameworks
+
+# i. Django
+# Python Django is a free and open-source framework written in Python and is the most common framework for Python. 
+# It allows you to create database-driven websites. It follows the DRY Principle (Don’t Repeat Yourself). 
+# This is a design philosophy that keeps code simple and eloquent. 
+# Popular websites like Instagram, Mozilla, and Disqus make use of it.
+
+# ii. Flask
+# Like Django, Flask is a web framework written in Python itself. 
+# It is a micro framework because it does not need certain libraries and tools. 
+# It also does not have form validation or a database abstraction layer. However, you can make use of extensions to add extra features.
+
+# iii. Pyramid
+# Pyramid is another web framework. 
+# It is neither a mega-framework that would make decisions for you nor a micro-framework that wouldn’t force decisions. 
+# It gives you optimal liberty of your project.
+
+# iv. Tornado
+# Another open-source web framework, Tornado is written in Python Language. 
+# It is noted for its excellent performance and scalability.
+
+# v. Bottle
+# Like Flask, it is a micro-framework for Python. 
+# It is used for web development. Bottle is known for its speed, simplicity, and lightweight. 
+# A single file can run both Python 2.5+ and 3.x.
+
+# vi. web2py
+# Written in Python, web2py is another open source web framework. 
+# It emphasizes on rapid development and follows an MVC architecture. MVC stands for Model View Controller.
+
+# vii. NumPy
+# NumPy is an open-source framework for Python. We use it for scientific computing. 
+# It supports large multidimensional arrays and matrices, and functions to operate on them.
+
+# viii. SciPy
+# SciPy is a Python library that you can use for scientific computing. 
+# It has modules for linear algebra, interpolation, fast Fourier transform(FFT), image processing, and many more. 
+# It uses multidimensional arrays from the NumPy module.
+
+# ix. Pylons
+# This is a deprecated framework, which means it is no longer recommended. 
+# It is a web framework and is open source as well. It makes extensive use of third-party tools.
+
+# 7. Flavors of Python
+Now, let’s take a look at major Python implementations –
