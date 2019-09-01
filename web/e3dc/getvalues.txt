@@ -1,0 +1,13 @@
+# change 'completed_assignments'
+
+# os for file management
+import os# Build tuple of (class, file) to turn in
+
+submission_dir = 'completed_assignments'dir_list = list(os.listdir(submission_dir)) 
+
+for directory in dir_list:
+    file_list = list(os.listdir(os.path.join(submission_dir, directory)))
+    if len(file_list) != 0:
+        file_tup = (directory, file_list[0])
+    
+print(file_tup)('EECS491', 'Assignment 3 - Inference in Larger Graphical Models.txt')
