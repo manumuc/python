@@ -2,8 +2,15 @@
 # 1. Get information from website to txt file (csv)
 Monat - 
 
-# 2. Get pic, Library and other information (Title, Author, Length, purchased downloaded, converted)
+# 1. Get pic, Library and other information (Title, Author, Length, purchased downloaded, converted)
 
 2. Set information about uploads on ebay (1. ort, radius, searchlist, 
 
-# 2. 
+# 2.
+
+3. Cleanup Online E-Mail account
+
+# 3.
+
+
+
